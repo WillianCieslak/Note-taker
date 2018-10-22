@@ -1,0 +1,3 @@
+17	Fruits		OrangeOrangeOrangeOrangeOrangeOrangeOrange	
+18	Fruits		LemonLemonLemonLemonLemonLemonLemonLemonLemon	
+19	Fruits		StrawberryStrawberryStrawberryStrawberryStrawberry	
